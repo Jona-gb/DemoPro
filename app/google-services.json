@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747621032418",
+    "project_id": "demopro-2e32f",
+    "storage_bucket": "demopro-2e32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747621032418:android:204e8ca74d458e8d7bd9bb",
+        "android_client_info": {
+          "package_name": "com.draft_soft.demopro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfzDYXglZzcduGu9-WePhopiCs8nttlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
